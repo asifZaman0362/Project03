@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Copyright 2020 Asif Zaman, zero3620@gmail.com-->
+
+<component type="desktop">
+    <id>com.github.asifZaman0362.project03</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Tasks</name>
+    <summary>An application to track your daily progress</summary>
+    <description>
+        <p>Use this application to keep track of your daily goals.</p>
+    </description>
+    <custom>
+        <value key="x-appcenter-color-primary">#010101</value>
+        <value key="x-appcenter-color-primary-text">#FFFFFF</value>
+        <value key="x-appcenter-suggested-price">3</value>
+    </custom>
+</component>

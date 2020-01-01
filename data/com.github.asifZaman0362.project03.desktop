@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name = Tasks
+GenericName = Tasks
+Comment = Tracks your daily progress.
+Categories = Utility
+Exec = com.github.asifZaman0362.project03
+Icon = pencil
+Terminal = false
+Type = Application
+Keywords = Tasks;Daily;Routine
